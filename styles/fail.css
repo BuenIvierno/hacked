@@ -1,0 +1,36 @@
+/* Body styles */
+body {
+    background-color: #2b2b2b;
+    color: #00ff00;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #111;
+    color: #00ff00;
+    padding: 20px;
+    box-sizing: border-box;
+    border-bottom: 3px solid #00ff00;
+  }
+
+  
+  /* Main content styles */
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 3px solid #00ff00;
+  }
+
+  /* Footer styles */
+  footer {
+    background-color: #111;
+    color: #00ff00;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    border-top: 3px solid #00ff00;
+  }
